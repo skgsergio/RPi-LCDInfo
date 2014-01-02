@@ -49,6 +49,18 @@ lcd = Adafruit_CharLCDPlate(busnum = 0)
 ```
 for a Rev 2 Raspberry Pi.
 
+Buttons
+-------
+
+```
+SELECT:  Switch ON/OFF the LCD (it continues refreshing the content).
+         If you hold SELECT the LCD powers off and the script exits.
+UP:      Previous widget.
+DOWN:    Next widget.
+LEFT:    Previous LCD color.
+RIGHT:   Next LCD color.
+```
+
 License: GPL v3
 ---------------
 Copyright 2014 - Sergio Conde < skgsergio [at] gmail [dot] com >
