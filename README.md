@@ -6,8 +6,10 @@ About
 This LCDInfo script requires the Adafruit RGB 16x2 LCD + Keypad Kit for RaspberryPi.
 You can get ti here: http://www.adafruit.com/products/1109
 
-Getting your RaspberryPi ready
-------------------------------
+To see the first beta version in action you can watch this video: http://youtu.be/P4EyNdhyyM0
+
+Getting your Raspberry Pi ready
+-------------------------------
 First make sure that /etc/modules (```sudo nano /etc/modules```) contains this two lines:
 ```
 i2c-bcm2708
