@@ -45,7 +45,7 @@ lcd = Adafruit_CharLCDPlate(busnum = 0)
 ```
 for a Rev 1 Raspberry Pi, or to
 ```
-lcd = Adafruit_CharLCDPlate(busnum = 0)
+lcd = Adafruit_CharLCDPlate(busnum = 1)
 ```
 for a Rev 2 Raspberry Pi.
 
